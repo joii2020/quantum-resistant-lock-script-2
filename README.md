@@ -77,6 +77,7 @@ Follow steps below:
 | dep_type  | code         |
 
 * Pudge(testnet)
+[CKB Explorer](https://pudge.explorer.nervos.org/transaction/0x35f51257673c7a7edd009fa2166e6f8645156207c9da38202f04ba4d94d9e519)
 
 | parameter | value                                                              |
 | --------- | ------------------------------------------------------------------ |
@@ -90,6 +91,7 @@ Follow steps below:
 
 ### Convert a cell lock script to SPHINCS+ through transactions.
 * Note, The output cell hash_type need to use data1. Because the contract uses the B extensions.
+[CKB Explorer](https://pudge.explorer.nervos.org/transaction/0x1a48fb4def03465ab826e56fbf77943db65fad57db19d02279465d954e28be64)
 
 | parameter | value                                                              |
 | --------- | ------------------------------------------------------------------ |
@@ -101,6 +103,7 @@ Follow steps below:
 
 ### Unlock this Cell
 Transfer out this Cell (use SPHINCS+ to unlock).
+[CKB Explorer](https://pudge.explorer.nervos.org/transaction/0x1e3fcf73f02bb98e90239ed01e4fec63dc3469471309a19ee4eec7cfc00a8637)
 
 | parameter | value                                                              |
 | --------- | ------------------------------------------------------------------ |
